@@ -363,6 +363,10 @@ SIFTMARKS_HOME=/tmp/siftmarks-test npm run cli -- init
 - 不要记录 API Key、完整书签导出或用户数据库内容。
 - 涉及导入、写回、AI 或 MCP 的改动，需要说明数据流边界。
 
+## 友联
+
+- [Linux DO](https://linux.do) — 中文开发者社区
+
 ## License
 
 MIT. See [`LICENSE`](./LICENSE).

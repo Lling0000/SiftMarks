@@ -320,6 +320,10 @@ Planned work is tracked in [`docs/ROADMAP.md`](./docs/ROADMAP.md). Near-term are
 
 Contributions are welcome. Start with [`CONTRIBUTING.md`](./CONTRIBUTING.md) for setup, development commands, and project boundaries.
 
+## Friend Links
+
+- [Linux DO](https://linux.do) — Chinese developer community
+
 ## License
 
 MIT. See [`LICENSE`](./LICENSE).
